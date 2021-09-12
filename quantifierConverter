@@ -9,5 +9,3 @@ class QuantifierConverter(object):
         return s
 
 object = QuantifierConverter()
-
-print(instance.quantifierConverter("\u2200 beautiful day there is, \u2203 some family time."))   
